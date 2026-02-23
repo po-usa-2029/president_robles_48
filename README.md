@@ -4,4 +4,4 @@
 #
 #
 #
-# "All Rights Reserved"
+# All Rights Reserved
