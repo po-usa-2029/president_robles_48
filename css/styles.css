@@ -91,6 +91,16 @@ body {
   color: #aaa;
 }
 
+.about-text span {
+  color: #c7a36a;
+  font-weight: bold;
+}
+
+.about-text p {
+  margin: 20px 0;
+  color: #aaa;
+}
+
 .btn-primary {
   background: linear-gradient(90deg, #a80f06, #c61406);
   padding: 12px 28px;
