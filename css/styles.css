@@ -20,6 +20,12 @@ body {
     margin: auto;
 }
 
+.slideshow {
+    color: #aaa;
+    background-color: #0f0f0f;
+    margin: auto;
+}
+
 .container {
   width: 90%;
   max-width: 1200px;
